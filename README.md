@@ -1,2 +1,2 @@
 # CSCE3193-Assignment2
-A simple program that allows the user to place blocks on a grid and move between stages. Made to lay the foundation of the next assignment.
+A program that moves a turtle either by clicking or using the arrow keys. Uses both keyListener and Mouselistener
